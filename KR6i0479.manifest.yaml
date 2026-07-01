@@ -1,0 +1,56 @@
+canonical_identifier: bkk:krp/KR6i0479/v1
+canonical_location: https://kanripo.org/bkk/KR6i0479/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說十力經
+  identifiers:
+    alt_id:
+    - T17n0780
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0780.xml
+    old_id: T17n0780
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit1
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0479_000.yaml, hash: 'sha256:cce5610ae88a8fdcf5046c0e21a77c52c86b7a9c5891c98bbf6de350c07b7839'}
+  - {seq: 1, filename: KR6i0479_001.yaml, hash: 'sha256:d27b715df4a83f63f5449d2e44bec88d1efa9fd8ee8b5f6d6224be535e07ddb8'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0479_000.markers.yaml, hash: 'sha256:155be914efe294c081607f9a744903cc421592d6627c58f5cb81f2a2bc8d6978'}
+  - {seq: 1, role: markers, filename: assets/KR6i0479_001.markers.yaml, hash: 'sha256:d287f4a301542205b6aef66e56a662b8828a7cc01e025639c0561a321bde7ee8'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6i0479_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 大唐貞元新譯十地等經記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0479_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1320
+  label: 佛說十力經
+  type: juan
+  level: 1
+hash: sha256:07772668bd6d7f220c027ae95cbdd065ae31b8d2854f7a3d64b3d476e0ca32fe
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
