@@ -24,11 +24,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6i0479_000.yaml, hash: 'sha256:cce5610ae88a8fdcf5046c0e21a77c52c86b7a9c5891c98bbf6de350c07b7839'}
-  - {seq: 1, filename: KR6i0479_001.yaml, hash: 'sha256:d27b715df4a83f63f5449d2e44bec88d1efa9fd8ee8b5f6d6224be535e07ddb8'}
+  - {seq: 0, filename: KR6i0479_000.yaml, hash: 'sha256:b708af50ea0babf7f8c8d1e7b471b09b7db28c45438a0deef1f954d58d41551f'}
+  - {seq: 1, filename: KR6i0479_001.yaml, hash: 'sha256:38ff1cca6afa597eb65d23cbb20da54cd61c59d732f3c9fbeb35939891786dad'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0479_000.markers.yaml, hash: 'sha256:155be914efe294c081607f9a744903cc421592d6627c58f5cb81f2a2bc8d6978'}
-  - {seq: 1, role: markers, filename: assets/KR6i0479_001.markers.yaml, hash: 'sha256:d287f4a301542205b6aef66e56a662b8828a7cc01e025639c0561a321bde7ee8'}
+  - {seq: 0, role: markers, filename: assets/KR6i0479_000.markers.yaml, hash: 'sha256:4caaef235eae8cd058aabf4befaeac15301376ca6432855f3c50dba4ef3f9cc5'}
+  - {seq: 1, role: markers, filename: assets/KR6i0479_001.markers.yaml, hash: 'sha256:8d7ab5e20fc7c1e6e9bf18875e2dc650ace11fe2c2071b4e365044bc5de790c5'}
 table_of_contents:
 - ref:
     seq: 0
@@ -50,7 +50,4 @@ table_of_contents:
   label: 佛說十力經
   type: juan
   level: 1
-hash: sha256:07772668bd6d7f220c027ae95cbdd065ae31b8d2854f7a3d64b3d476e0ca32fe
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:be9938117f5752764f244996e64d34f9f3f90864a163f3a5855f2c0ef9459431
