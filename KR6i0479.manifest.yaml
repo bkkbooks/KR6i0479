@@ -24,17 +24,17 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6i0479_000.yaml, hash: 'sha256:696a604742400817e3d839c228249e9e8e9f5cead9129acfc58b0264368fe719'}
+  - {seq: 0, filename: KR6i0479_000.yaml, hash: 'sha256:ad1f3a9b0e1e835747c1b666a0d7ad5fa74be378323961024a2ea24c386e7ed8'}
   - {seq: 1, filename: KR6i0479_001.yaml, hash: 'sha256:d1a8f63be630dcfaccccce854a35567b2751e5c05b0accc71e0c991f3d9cf63d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0479_000.markers.yaml, hash: 'sha256:2d1db60faf582474df52c9d8787303a8f2cd663776b6708ebe18d0ea4b2db5ce'}
+  - {seq: 0, role: markers, filename: assets/KR6i0479_000.markers.yaml, hash: 'sha256:5afe911de492c45464df7ba570368e6133326cdfbcea42edca250a2fa3bb35bc'}
   - {seq: 1, role: markers, filename: assets/KR6i0479_001.markers.yaml, hash: 'sha256:59123cd91414edfd9763cd8557301f0484bc3c5ace0f85eac43b01d1afee5485'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6i0479_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 大唐貞元新譯十地等經記
@@ -50,7 +50,7 @@ table_of_contents:
   label: 佛說十力經
   type: juan
   level: 1
-hash: sha256:b1fa57f35c2a598782598892d8cd4c7faee2e87d5c2c0961a76c1c917c4a846b
+hash: sha256:31d13c7479ff57b8492e7870e1564f1a32910d9d98bb1c571b18cacdcc2ea79a
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
